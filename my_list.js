@@ -3,8 +3,6 @@ var myList = [
 	pomidory,
 	marchewki,
 	banany,
-	seler,
-	jabka,
-	brzoskwinie,
-	winogron
+	winogron;
+	cebuladilz
 ];
