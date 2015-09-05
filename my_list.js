@@ -5,5 +5,6 @@ var myList = [
 	banany,
 	seler,
 	jabka,
-	brzoskwinie
+	brzoskwinie,
+	winogron
 ];
